@@ -1,2 +1,2 @@
-# PROJECT_20_GCSO
-Detecting the collision between the cars with algorithms.
+# p5.play-boilerplate
+Boiler plate for p5.play
